@@ -1,2 +1,3 @@
 # Expense-Tracker
-Input Expenses and Income, and calculate monthly budget surplus/deficit
+The project allows the user to input expenses and income, and calculate monthly budget surplus/deficit
+
